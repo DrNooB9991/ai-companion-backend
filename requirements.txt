@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+websockets
+openai
+groq
+elevenlabs
+mem0ai
